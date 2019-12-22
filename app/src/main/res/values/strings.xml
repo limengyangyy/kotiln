@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Technology_4</string>
+    <string name="login_name">手机号</string>
+    <string name="login_pw">登录密码</string>
+    <string name="resign">快速注册</string>
+    <string name="login">登录</string>
+    <string name="regist">注册</string>
+    <string name="textName">第三方账号快速登录</string>
+    <string name="resign_name">昵称</string>
+    <string name="resign_button">注册</string>
+    <string name="resign_num">短信验证注册</string>
+</resources>
